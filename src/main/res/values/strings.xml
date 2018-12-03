@@ -1,0 +1,102 @@
+<resources>
+    <string name="app_name">Include Quiz</string>
+    <string name="credenciales">Hecho por: Jose Miguel Zamora Batista</string>
+    <!-- Menu principal -->
+    <string name="a1introNombre">Introduce tu nombre:</string>
+    <string name="a1_hechoPorInclude">Hecho por Jose Zamora</string>
+    <string name="a1_include">Patrocinado por:</string>
+    <string name="a1_JugarBotones">Comenzar</string>
+
+    <!-- Puntuaciones -->
+    <string name="a2_final">Finalizado</string>
+    <string name="a2_resumen">Resumen</string>
+    <string name="a2_puntuacion">Puntos:</string>
+    <string name="a2_acertadas">Acertadas:</string>
+
+    <string name="a3_pActual">Número de pregunta:</string>
+    <string name="a3_pregunta">Pregunta:</string>
+
+    <string name="a1_question">¿Qué es un byte?</string>
+    <string name="a1_rightAns">8 bits de información</string>
+    <string name="a1_ans1">1024 kilobytes</string>
+    <string name="a1_ans2">Un insecto</string>
+    <string name="a1_ans3">4 bits de información</string>
+
+    <string-array name="arraySpinner1">
+        <item>8 bits de información</item>
+        <item>1024 kilobytes</item>
+        <item>Un insecto</item>
+        <item>4 bits de información</item>
+    </string-array>
+
+    <string name="a2_question">¿Qué significa POO?</string>
+    <string name="a2_rightAns">Programacion Orientada a Objetos</string>
+    <string name="a2_ans1">Puente de Octubre Olvidado</string>
+    <string name="a2_ans2">Postal de Odio en Octubre</string>
+    <string name="a2_ans3">Público de Oidos Odiosos</string>
+
+    <string-array name="arraySpinner2">
+        <item>Puente de Octubre Olvidado</item>
+        <item>Programacion Orientada a Objetos</item>
+        <item>Postal de Odio en Octubre</item>
+        <item>Público de Oidos Odiosos</item>
+    </string-array>
+
+    <string name="a3_question">¿Qué es un PC?</string>
+    <string name="a3_rightAns">Personal Computer</string>
+    <string name="a3_ans1">Peine Comprado</string>
+    <string name="a3_ans2">Público Cansado</string>
+    <string name="a3_ans3">Pablo Coello</string>
+
+    <string-array name="arraySpinner3">
+        <item>Peine Comprado</item>
+        <item>Pablo Coello</item>
+        <item>Personal Computer</item>
+        <item>Público Cansado</item>
+    </string-array>
+
+    <string name="a4_question">¿A qué logo se corresponde la imagen?</string>
+    <string name="a4_rightAns">Logotipo de Android</string>
+    <string name="a4_ans1">Logotipo de Ubuntu</string>
+    <string name="a4_ans2">Logotipo de MC`Donalds</string>
+    <string name="a4_ans3">Logotipo de Chupa Chups</string>
+
+    <string-array name="arraySpinner4">
+        <item>Logotipo de Ubuntu</item>
+        <item>Logotipo de Android</item>
+        <item>Logotipo de MC`Donalds</item>
+        <item>Logotipo de Chupa Chups</item>
+    </string-array>
+
+    <string name="a5_question">¿Cuál es el navegador de Google?</string>
+    <string name="a5_rightAns">google</string>
+    <string name="a5_ans1">edge</string>
+    <string name="a5_ans2">opera</string>
+    <string name="a5_ans3">safari</string>
+
+    <string name="btn_check">Comprobar</string>
+
+    <string name="textExito">Exito</string>
+    <string name="textMsgExito">Has acertado!!!. Pulse continuar para seguir jugando.</string>
+    <string name="textContinuar">Continuar</string>
+
+    <string name="textFallo">Fallo</string>
+    <string name="textReiniciar">Reiniciar</string>
+    <string name="textMsgFallo">Ups has fallado puedes reiniciar o continuar restando 2 puntos a tu puntuación</string>
+    <string name="calificacion">Calificación:</string>
+    <string name="exit">Salir</string>
+
+    <string name="spinnerPrompt">Seleccione una:</string>
+    <string name="aqui_va_la_pregunta_en_cuesti_n">Aqui va la pregunta en cuestión</string>
+    <string name="imagen_android">imagen_android</string>
+    <string name="estrellas_obtenidas">estrellas obtenidas</string>
+    <string name="_6">6</string>
+    <string name="_5">5</string>
+    <string name="_4">4</string>
+    <string name="_3">3</string>
+    <string name="_2">2</string>
+    <string name="_1">1</string>
+    <string name="logo_de_include">logo de include</string>
+
+
+</resources>
